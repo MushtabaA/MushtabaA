@@ -8,5 +8,5 @@
 Connect with me on LinkedIn, view my portfolio page, or send me an email!
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushtaba)
-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://mushtabaa.github.io)
+- [![GitHub](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)](https://mushtabaa.github.io)
 - [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:mushtaba.alyasseen@ucalgary.ca)
